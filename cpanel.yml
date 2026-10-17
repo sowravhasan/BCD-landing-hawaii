@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - /bin/echo "The Git repository is already the document root: /home3/bigciub2/public_html/best-catering-hawaii"
-    - /bin/echo "Files are deployed in place when cPanel updates the repository from the remote."
